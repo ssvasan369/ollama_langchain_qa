@@ -1,0 +1,6 @@
+files
+jj
+__pycache__
+.ollama
+venv
+.data
